@@ -1,8 +1,8 @@
 {
-  "name": "andrewjanatka-marketplace",
+  "name": "ajanatka-marketplace",
   "owner": {
     "name": "Andrew Janatka",
-    "url": "https://github.com/andrewjanatka"
+    "url": "https://github.com/ajanatka"
   },
   "metadata": {
     "description": "Plugin marketplace for Claude Code extensions",
@@ -15,9 +15,9 @@
       "version": "1.2.0",
       "author": {
         "name": "Andrew Janatka",
-        "url": "https://github.com/andrewjanatka"
+        "url": "https://github.com/ajanatka"
       },
-      "homepage": "https://github.com/andrewjanatka/compound-flow",
+      "homepage": "https://github.com/ajanatka/compound-flow",
       "tags": ["python", "compound-engineering", "workflow-automation", "code-review", "knowledge-management"],
       "source": "./plugins/compound-flow"
     },
@@ -27,9 +27,9 @@
       "version": "1.0.0",
       "author": {
         "name": "Andrew Janatka",
-        "url": "https://github.com/andrewjanatka"
+        "url": "https://github.com/ajanatka"
       },
-      "homepage": "https://github.com/andrewjanatka/design-studio",
+      "homepage": "https://github.com/ajanatka/design-studio",
       "tags": ["design", "prototyping", "wireframing", "design-system", "ux", "ui", "figma", "pm-tools"],
       "source": "./plugins/design-studio"
     }

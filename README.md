@@ -14,7 +14,7 @@ Claude Code plugin marketplace for distributing plugins.
 ### Add the marketplace
 
 ```bash
-claude /install-plugin marketplace:andrewjanatka/plugin-marketplace
+claude /install-plugin marketplace:ajanatka/plugin-marketplace
 ```
 
 ### Install a plugin from this marketplace
@@ -26,7 +26,7 @@ claude /install-plugin compound-flow
 ### Install from GitHub directly (standalone)
 
 ```bash
-claude /install-plugin github:andrewjanatka/compound-flow
+claude /install-plugin github:ajanatka/compound-flow
 ```
 
 ## Adding a New Plugin
