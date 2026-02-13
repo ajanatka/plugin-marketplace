@@ -1,0 +1,6 @@
+[submodule "plugins/compound-flow"]
+	path = plugins/compound-flow
+	url = https://github.com/ajanatka/compound-flow.git
+[submodule "plugins/design-studio"]
+	path = plugins/design-studio
+	url = https://github.com/ajanatka/design-studio.git
