@@ -11,22 +11,22 @@ Claude Code plugin marketplace for distributing plugins.
 
 ## Installation
 
-### Add the marketplace
+Plugins are installed by cloning them into your Claude Code plugins directory (`~/.claude/plugins/`). Restart Claude Code after installing.
+
+### Install a plugin
 
 ```bash
-claude /install-plugin marketplace:ajanatka/plugin-marketplace
+# compound-flow
+git clone https://github.com/ajanatka/compound-flow.git ~/.claude/plugins/compound-flow
+
+# design-studio
+git clone https://github.com/ajanatka/design-studio.git ~/.claude/plugins/design-studio
 ```
 
-### Install a plugin from this marketplace
+### Update a plugin
 
 ```bash
-claude /install-plugin compound-flow
-```
-
-### Install from GitHub directly (standalone)
-
-```bash
-claude /install-plugin github:ajanatka/compound-flow
+cd ~/.claude/plugins/<plugin-name> && git pull
 ```
 
 ## Adding a New Plugin
