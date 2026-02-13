@@ -1,0 +1,25 @@
+{
+  "name": "andrewjanatka-marketplace",
+  "owner": {
+    "name": "Andrew Janatka",
+    "url": "https://github.com/andrewjanatka"
+  },
+  "metadata": {
+    "description": "Plugin marketplace for Claude Code extensions",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "compound-flow",
+      "description": "Python-focused compound engineering. 17 agents, 15 commands, 11 skills for code review, research, and workflow automation.",
+      "version": "1.2.0",
+      "author": {
+        "name": "Andrew Janatka",
+        "url": "https://github.com/andrewjanatka"
+      },
+      "homepage": "https://github.com/andrewjanatka/compound-flow",
+      "tags": ["python", "compound-engineering", "workflow-automation", "code-review", "knowledge-management"],
+      "source": "./plugins/compound-flow"
+    }
+  ]
+}
