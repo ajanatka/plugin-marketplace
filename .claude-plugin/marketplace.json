@@ -20,6 +20,18 @@
       "homepage": "https://github.com/andrewjanatka/compound-flow",
       "tags": ["python", "compound-engineering", "workflow-automation", "code-review", "knowledge-management"],
       "source": "./plugins/compound-flow"
+    },
+    {
+      "name": "design-studio",
+      "description": "Rapid UI prototyping with design system awareness, UX best practices, and designer-level taste. 9 skills, 1 agent, 2 hooks for prototyping, wireframing, design audits, and designer lens learning.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Andrew Janatka",
+        "url": "https://github.com/andrewjanatka"
+      },
+      "homepage": "https://github.com/andrewjanatka/design-studio",
+      "tags": ["design", "prototyping", "wireframing", "design-system", "ux", "ui", "figma", "pm-tools"],
+      "source": "./plugins/design-studio"
     }
   ]
 }

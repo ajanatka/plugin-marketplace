@@ -7,6 +7,7 @@ Claude Code plugin marketplace for distributing plugins.
 | Plugin | Description | Version |
 |--------|-------------|---------|
 | [compound-flow](./plugins/compound-flow/) | Python-focused compound engineering. 17 agents, 15 commands, 11 skills. | 1.2.0 |
+| [design-studio](./plugins/design-studio/) | Rapid UI prototyping with design system awareness, UX best practices, and designer-level taste. 9 skills, 1 agent. | 1.0.0 |
 
 ## Installation
 
@@ -63,7 +64,8 @@ plugin-marketplace/
 ├── .claude-plugin/
 │   └── marketplace.json    # Marketplace catalog
 ├── plugins/
-│   └── compound-flow/      # Python compound engineering plugin
+│   ├── compound-flow/      # Python compound engineering plugin
+│   └── design-studio/      # UI prototyping and design system plugin
 └── README.md
 ```
 
